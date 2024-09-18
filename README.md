@@ -1,2 +1,2 @@
 # Pantheon
-A single board computer based around a custom CPU, all open sourced
+A single board computer based around a custom CPU called DEX (Dynamically extendable) , all open sourced

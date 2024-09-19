@@ -1,2 +1,1 @@
-#Schematic
-put schemitc files here
+# Schematic Files

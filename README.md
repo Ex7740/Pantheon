@@ -4,6 +4,6 @@ A single board computer based around a custom CPU architecture called DEX (Dynam
 
 
 
-# Operating System: Tiny OS
+# Operating System: Micro OS
 A very small, efficent operating system that can run on certain microcontrollers
 

@@ -1,9 +1,8 @@
 # Pantheon
-A single board computer based around a custom CPU architecture called DEX (Dynamically extendable) , all open sourced
+A collection of Single board computers and microcontroller
 
+# Pantheon V1.0
+A single board computer based around a custom CPU architecture call DEX (Dynamically extendable)
 
-
-
-# Operating System: Micro OS
-A very small, efficent operating system that can run on certain microcontrollers
-
+# Pantheon Lite 
+A microcontroller that intergrates with Pantheon V1.0 
